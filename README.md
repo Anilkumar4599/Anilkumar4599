@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-# QA Professional Readme
+# QA and DevOps Professional Readme
 
-Methodical QA Professional with 20 Years of experience in optimal testing strategies, open and clear communicator with good multitasking skills, organized nature, and strong attention to details.
+Methodical QA Professional with 20 Years of experience in optimal testing strategies, open and clear communicator with good multitasking skills, organized nature, and strong attention to detail.
 
 ## Certification
 - PG DevOps Engineer from Caltech CTME California Institute of Technology
