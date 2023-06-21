@@ -7,12 +7,6 @@ Methodical QA Professional with 20 Years of experience in optimal testing strate
 ## Certification
 - PG DevOps Engineer from Caltech CTME California Institute of Technology
 
-![image](https://github.com/Anilkumar4599/Anilkumar4599/assets/105602267/1387f686-a613-4ace-8592-897fafcb9978)
-
-![image](https://github.com/Anilkumar4599/Anilkumar4599/assets/105602267/cf6f94dd-505a-49c6-ab43-5467fe4491e3)
-
-     
-
 ## Skills
 - Test and Team management
 - Stakeholder management
