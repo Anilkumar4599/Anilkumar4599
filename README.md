@@ -1,8 +1,8 @@
 ### Hi there I'm Anil! 👋
 
-<Img align="left" src="https://github-readme-stats.vercel.app/api?username=Anilkumar4599&show_icons=true&theme=tokyonight" />
+<Img align="left" src="https://github-readme-stats.vercel.app/api?username=Anilkumar4599&show_icons=true&theme=tokyonight"/>
 
-<Img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anilkumar4599&layout=compact" />
+<Img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anilkumar4599&layout=compact"/>
 
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
