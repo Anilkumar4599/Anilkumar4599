@@ -2,12 +2,7 @@
 
 <Img align="left" src="https://github-readme-stats.vercel.app/api?username=Anilkumar4599&show_icons=true&theme=tokyonight" />
 
-[![Anil's GitHub stats](https://github-readme-stats.vercel.app/api?username=anilkumar4599)](https://github.com/anilkumar4599/github-readme-stats)
-
-![Anil's GitHub stats](https://github-readme-stats.vercel.app/api?username=anilkumar4599&show=reviews)
-
 <Img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anilkumar4599&layout=compact" />
-
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
