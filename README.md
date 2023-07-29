@@ -38,26 +38,6 @@ Methodical QA Professional with 20 Years of experience in optimal testing strate
 ## Certification
 - PG DevOps Engineer from Caltech CTME California Institute of Technology
   
-## Skills
-- Test and Team management
-- Stakeholder management
-- Test planning and estimations
-- JIRA
-- AWS
-- Jenkins
-- Docker
-- Kubernetes
-- Yaml
-- Ansible
-- Terraform
-- Bash Scripting
-- Grafana
-- Nexus
-- Git and GitHub
-- Maven and SonarQube
-- Helm Charts
-- Apache Tomcat
-
 ## Profile Highlights
 - Proficient in DevOps, Cloud & SDLC including Analysis, Design, Scripting, Testing, Automation, Version Control, Documentation, and Support.
 - Strong structured testing knowledge and thorough understanding of quality assurance testing methodologies and concepts, demonstrating deep knowledge and hands-on experience mainly with functional and automation testing across web, in-house applications, and desktop applications.
