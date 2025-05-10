@@ -37,6 +37,7 @@ Methodical QA Professional with 20 Years of experience in optimal testing strate
 
 ## Certification
 - PG DevOps Engineer from Caltech CTME California Institute of Technology
+- AWS Cloud solution architect associate
   
 ## Profile Highlights
 - Proficient in DevOps, Cloud & SDLC including Analysis, Design, Scripting, Testing, Automation, Version Control, Documentation, and Support.
