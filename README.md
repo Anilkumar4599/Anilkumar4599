@@ -31,22 +31,100 @@
 
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
-# QA and DevOps Professional Readme
+# QA & Quality Engineering | DevOps & Cloud | Operational Excellence
 
-Methodical QA Professional with 20 Years of experience in optimal testing strategies, open and clear communicator with good multitasking skills, organized nature, and strong attention to detail.
+**Senior Manager | Quality Assurance & QC | Procurement | Inventory | Service Operations**
 
-## Certification
-- PG DevOps Engineer from Caltech CTME California Institute of Technology
-- AWS Cloud solution architect associate
-  
-## Profile Highlights
-- Proficient in DevOps, Cloud & SDLC including Analysis, Design, Scripting, Testing, Automation, Version Control, Documentation, and Support.
-- Strong structured testing knowledge and thorough understanding of quality assurance testing methodologies and concepts, demonstrating deep knowledge and hands-on experience mainly with functional and automation testing across web, in-house applications, and desktop applications.
-- Led a high-performing testing team of 36 Members for large-scale cross-functional projects consisting of various web applications and web services.
-- Impressive success in facilitating projects and guiding cross-functional teams for execution of projects using Agile-Scrum framework methodology.
-- Experience in CI/CD pipelines using Docker, Jenkins, and Git.
-- Extensive experience and knowledge in the testing lifecycle and core testing techniques using different test approaches, requirements/functional analysis, test planning, Test estimation, test preparation, test execution, test reporting, and defect management.
-- Maintained a strong Customer relationship and trust through excellent delivery in the last few years that resulted in the company being treated as a partner rather vendor/supplier.
-- Owned the on-time delivery, risk identification, and mitigation planning for the entire cycle of the program.
-- Resource forecasting and planning and experience in using test management tools to manage testing activity and provide testing metrics.
-- Active member of the COE team to create automation framework, standards, and best practices to be followed in QA competency in the organization.
+I bring 20 years of professional experience in Quality Assurance, testing, team leadership, process governance, and delivery management, with experience spanning complex cross-functional environments and technology-driven operations.
+
+My professional approach combines **quality-first thinking, structured problem-solving, risk management, operational discipline, and continuous improvement**. I believe that quality is not merely about identifying defects—it is about preventing failures, strengthening processes, improving reliability, and enabling better business decisions.
+
+Currently, I manage responsibilities across **Procurement, Quality Control, Inventory, and Service Operations** in the ATM E-Surveillance systems domain. Alongside my management responsibilities, I am expanding my technical capabilities through structured learning and practical projects in DevOps, cloud technologies, Git/GitHub, automation, and data-driven process improvement.
+
+My goal is to bridge the gap between **business operations, quality engineering, technology, and measurable operational outcomes**.
+
+---
+
+## 🎯 Professional Mission
+
+To build reliable, scalable, and process-driven operations by combining quality engineering principles, cross-functional leadership, technical knowledge, automation, and continuous improvement.
+
+I focus on connecting three essential dimensions:
+
+- **People:** Team leadership, collaboration, accountability, and stakeholder alignment.
+- **Processes:** Quality assurance, risk mitigation, standardization, root cause analysis, and operational efficiency.
+- **Technology:** DevOps practices, cloud fundamentals, version control, automation, and data-driven decision-making.
+
+## 💼 Professional Strengths
+
+- **Quality Engineering & QA/QC:** Quality planning, test strategy, test execution, defect management, validation, root cause analysis, and continuous improvement.
+- **Leadership & Delivery Management:** Cross-functional coordination, team development, resource planning, delivery governance, risk identification, and stakeholder communication.
+- **Procurement & Inventory Operations:** Purchase coordination, supplier follow-up, inventory visibility, material availability, and operational support.
+- **Service Operations:** Issue prioritization, escalation management, service coordination, and resolution tracking.
+- **Process Improvement:** Standard operating procedures, checklists, performance tracking, recurring-defect analysis, and corrective and preventive actions.
+- **Business & Technical Alignment:** Translating operational problems into structured requirements, actionable insights, and practical improvement initiatives.
+
+## 🛠️ Technology & Continuous Learning
+
+I am strengthening my technical capabilities through structured learning, documented exercises, and practical projects.
+
+| Area | Focus |
+|---|---|
+| Quality Engineering | Defect classification, Pareto analysis, RCA, FPY, rework tracking |
+| Version Control | Git, GitHub, Markdown, repository management |
+| DevOps | CI/CD concepts, Jenkins, Docker, build and deployment workflows |
+| Cloud | AWS fundamentals and cloud architecture concepts |
+| Automation & Data | Python fundamentals, Excel-based process improvement, reporting |
+| Data Visualization | Power BI fundamentals and operational dashboards |
+| AI for Operations | Structured prompting, workflow improvement, and analytical assistance |
+
+*My portfolio distinguishes established professional experience from technologies currently being learned and developed through practical exercises.*
+
+## 📊 Selected GitHub Projects
+
+My GitHub repositories focus on transforming operational knowledge into structured, reusable, and measurable improvement initiatives.
+
+- **QC Defect Classification:** A structured approach to categorizing defects by severity, affected function, and required attention.
+- **QC Pareto Analysis:** Identifying high-frequency defect categories to support prioritization and corrective action.
+- **QC Daily Summary:** Organizing quality information into a consistent reporting format for operational visibility.
+- **First Pass Yield (FPY):** Exploring a quality metric that measures the proportion of units passing inspection without rework.
+- **Recurring Defect Analysis:** Identifying repeated failures and opportunities for preventive action.
+- **Root Cause Analysis (RCA):** Structuring investigations to identify underlying causes rather than treating symptoms alone.
+- **Rework Tracking:** Documenting rework activity to improve quality visibility and support process improvement.
+
+These projects form part of my continuing effort to build a practical portfolio at the intersection of quality, procurement, service operations, and technology-enabled improvement.
+
+## 🧭 Leadership Philosophy
+
+I believe effective leadership is demonstrated through clarity, ownership, consistency, and results.
+
+My working principles are:
+
+- Quality should be built into the process, not inspected only at the end.
+- Data should support decisions, not merely populate reports.
+- Recurring problems require root cause analysis and preventive action.
+- Clear ownership and accountability improve execution.
+- Technology creates value when it solves a genuine business problem.
+- Continuous learning must lead to practical application.
+
+## 🎓 Certifications & Professional Development
+
+- PG DevOps Engineer — Caltech CTME, California Institute of Technology.
+- AWS Certified Solutions Architect – Associate.
+
+*Please ensure these titles match the exact credentials you have earned before publishing.*
+
+## 🚀 Current Focus
+
+I am continuing to develop my capabilities in quality engineering, DevOps, cloud technologies, automation, and data-driven operations.
+
+My broader objective is to combine management experience with practical technical skills to support operational excellence, stronger quality systems, improved visibility, and more effective business processes.
+
+I welcome opportunities to exchange knowledge, collaborate on meaningful projects, and learn from professionals across quality engineering, DevOps, cloud, procurement, and industrial operations.
+
+---
+
+**My professional principle:**
+
+*Build with discipline. Validate with evidence. Improve through data. Deliver with accountability.*
+
