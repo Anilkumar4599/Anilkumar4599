@@ -1,35 +1,110 @@
-### Hi there I'm Anil! 👋
+# 👋 Hi, I'm Anil Kumar
 
-<Img align="left" src="https://github-readme-stats.vercel.app/api?username=Anilkumar4599&show_icons=true&theme=tokyonight" />
+### Quality Engineering | Procurement & Service Operations | AI, Analytics & DevOps Learning
 
-<Img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anilkumar4599&layout=compact" />
+**Senior Manager | 20 Years of Professional Experience | Continuous Improvement**
 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+I focus on connecting quality, operational excellence, and technology to solve practical business problems. My GitHub portfolio documents my work in QC analytics, defect management, procurement improvement, and my ongoing learning journey in AI, Python, cloud, and DevOps.
 
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GitHub-Anilkumar4599-181717?style=flat-square&logo=github)](https://github.com/Anilkumar4599)
+[![Quality Engineering](https://img.shields.io/badge/Focus-Quality%20Engineering-0A7B83?style=flat-square&logo=checkmarx&logoColor=white)](#-featured-projects)
+[![AI Learning](https://img.shields.io/badge/Focus-AI%20%26%20Automation-7C3AED?style=flat-square&logo=openai&logoColor=white)](#-technology-stack)
+[![DevOps Learning](https://img.shields.io/badge/Focus-DevOps%20%26%20Cloud-2563EB?style=flat-square&logo=amazonaws&logoColor=white)](#-technology-stack)
 
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+---
 
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
+## 📊 GitHub Overview
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anilkumar4599&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub profile statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anilkumar4599&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Most-used languages in public repositories" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anilkumar4599&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+*Note: These cards depend on third-party services and public repository data. Language statistics represent repository code composition, not skill level. A streak card may be unavailable if its service is down.*
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Purpose |
+|---|---|
+| [QC Defect Classification](https://github.com/Anilkumar4599/daily-github-contribution-tool) | Organizing defects by severity, function, and business impact |
+| [QC Pareto Analysis](https://github.com/Anilkumar4599/daily-github-contribution-tool) | Identifying high-frequency defects for corrective action |
+| [QC Daily Summary](https://github.com/Anilkumar4599/daily-github-contribution-tool) | Structuring daily quality reporting and visibility |
+| [FPY Calculation](https://github.com/Anilkumar4599/daily-github-contribution-tool) | Understanding first-pass yield and quality performance |
+| [Recurring Defect Analysis](https://github.com/Anilkumar4599/daily-github-contribution-tool) | Recognizing repeated failures and improvement opportunities |
+| [Root Cause Analysis](https://github.com/Anilkumar4599/daily-github-contribution-tool) | Investigating underlying causes and preventive actions |
+| [Rework Tracking](https://github.com/Anilkumar4599/daily-github-contribution-tool) | Documenting rework and opportunities to improve quality |
+
+Explore the [Daily GitHub Contribution Tool repository](https://github.com/Anilkumar4599/daily-github-contribution-tool) for available project files.
+
+---
+
+## 🧰 Technology Stack & Learning Journey
+
+### Quality Engineering & Operations
+
+![Quality Assurance](https://img.shields.io/badge/Quality%20Assurance-0A7B83?style=flat-square)
+![Root Cause Analysis](https://img.shields.io/badge/Root%20Cause%20Analysis-0A7B83?style=flat-square)
+![Procurement](https://img.shields.io/badge/Procurement-475569?style=flat-square)
+![Inventory Management](https://img.shields.io/badge/Inventory%20Management-475569?style=flat-square)
+![Service Operations](https://img.shields.io/badge/Service%20Operations-475569?style=flat-square)
+
+### AI, Analytics & Automation
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+### Version Control & DevOps Learning
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+
+*My GitHub repositories distinguish practical work from technologies under study. Listing a technology here does not imply production implementation experience.*
+
+---
+
+## 🎯 What I'm Building
+
+- **Quality Analytics:** Defect classification, Pareto analysis, FPY, RCA, and rework reporting.
+- **Procurement Improvement:** Structured supplier, purchase, and inventory analysis.
+- **AI-Assisted Workflows:** Applying AI to analytical tasks, documentation, and process improvement.
+- **Automation:** Developing practical Python and reporting skills to reduce repetitive work.
+- **Cloud & DevOps:** Rebuilding foundational knowledge through structured exercises and documented projects.
+
+---
+
+## 💡 My Working Principles
+
+- Quality should be built into the process, not inspected only at the end.
+- Data should drive decisions and continuous improvement.
+- Recurring defects deserve root cause analysis and preventive action.
+- Technology should solve real business problems.
+- Every learning exercise should move toward a practical application.
+
+---
+
+## 🤝 Let's Connect
+
+I welcome opportunities to learn, collaborate, exchange knowledge, and build practical solutions across quality engineering, procurement, operations, analytics, and technology.
+
+**Build with discipline. Validate with evidence. Improve through data. Deliver with accountability.**
 
 
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
-
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 # QA & Quality Engineering | DevOps & Cloud | Operational Excellence
 
